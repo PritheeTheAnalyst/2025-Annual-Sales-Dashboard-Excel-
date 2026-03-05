@@ -33,12 +33,18 @@ This project demonstrates advanced Excel data analysis skills including:
 
 ## Project Insights
 ✔️ Identified March as the top performing month for both sales and order volume.
+
 ✔️ Women are the primary customer demographic driving purchases with 29% women more likely to make purchase compared to men
+
 ✔️ Established a relationship between age and sales with the Adult age group (30-49 yrs) contributing 50% tot the total sales.
+
 ✔️ Discovered the top 5 states contributing the highest revenue made 35% of the total sales
+
 ✔️ Found the most profitable sales channel for customer acquisition. 80% of orders were made from Amazon, Flipkart and Myntra channels. 
 
 ## Recommendations 
 • Target female customers, especially those in the 30–49 age group, since they are more likely to make purchases.
+
 • Encourage customers in low-performing states by offering discounts, promotions, or special deals to increase sales.
+
 • Focus marketing efforts on top-performing product categories to maximize revenue and customer engagement.
